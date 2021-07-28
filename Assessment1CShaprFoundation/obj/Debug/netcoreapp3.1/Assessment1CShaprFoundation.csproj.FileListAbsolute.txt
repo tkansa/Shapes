@@ -1,0 +1,13 @@
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.exe
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.deps.json
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.runtimeconfig.json
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.runtimeconfig.dev.json
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.dll
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\bin\Debug\netcoreapp3.1\Assessment1CShaprFoundation.pdb
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.csprojAssemblyReference.cache
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.AssemblyInfoInputs.cache
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.AssemblyInfo.cs
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.csproj.CoreCompileInputs.cache
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.dll
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.pdb
+C:\Users\TKansa\source\repos\Assessment1CShaprFoundation\Assessment1CShaprFoundation\obj\Debug\netcoreapp3.1\Assessment1CShaprFoundation.genruntimeconfig.cache
